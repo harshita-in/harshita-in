@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Web Developer | B.Tech Computer Science Student
 
-I am a passionate and driven Web Developer with a solid foundation in software engineering and a deep interest in building scalable, responsive, and user-centric web applications. I love solving complex problems and turning creative ideas into meaningful digital solutions[cite: 1].
+I am a passionate and driven Web Developer with a solid foundation in software engineering and a deep interest in building scalable, responsive, and user-centric web applications. I love solving complex problems and turning creative ideas into meaningful digital solutions.
 
 ---
 
