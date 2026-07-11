@@ -2,7 +2,7 @@
 
 ### 💻 Web Developer | B.Tech Computer Science Student
 
-I am an enthusiastic web developer passionate about building responsive and user-focused applications. I believe in solving complex problems using core software engineering principles[cite: 1].
+I am an enthusiastic web developer passionate about building responsive and user-focused applications. I believe in solving complex problems using core software engineering principles
 
 ---
 
